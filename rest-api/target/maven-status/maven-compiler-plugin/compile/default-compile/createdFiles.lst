@@ -1,0 +1,6 @@
+org/openapitools/model/MessageResponse.class
+org/openapitools/model/PaginationResponse.class
+org/openapitools/model/PaginatedMessageResponse.class
+org/openapitools/api/ApiUtil.class
+org/openapitools/model/MessageCreateRequest.class
+org/openapitools/api/MessagesApi.class

@@ -1,0 +1,5 @@
+/Users/alex/Repos/TemplateSpringBootProject/impl/src/main/java/dev/heinisch/template/MessageMapper.java
+/Users/alex/Repos/TemplateSpringBootProject/impl/src/main/java/dev/heinisch/template/model/Message.java
+/Users/alex/Repos/TemplateSpringBootProject/impl/src/main/java/dev/heinisch/template/repository/JpaConfiguration.java
+/Users/alex/Repos/TemplateSpringBootProject/impl/src/main/java/dev/heinisch/template/repository/MessageRepository.java
+/Users/alex/Repos/TemplateSpringBootProject/impl/src/main/java/dev/heinisch/template/service/MessageServiceImpl.java

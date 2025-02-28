@@ -1,0 +1,4 @@
+dev/heinisch/template/endpoint/GlobalExceptionHandler.class
+dev/heinisch/template/endpoint/MessageEndpoint.class
+dev/heinisch/template/endpoint/RestEntitiesMapper.class
+dev/heinisch/template/endpoint/RestEntitiesMapperImpl.class

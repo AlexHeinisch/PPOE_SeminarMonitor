@@ -1,0 +1,6 @@
+dev/heinisch/template/repository/JpaConfiguration.class
+dev/heinisch/template/MessageMapperImpl.class
+dev/heinisch/template/service/MessageServiceImpl.class
+dev/heinisch/template/repository/MessageRepository.class
+dev/heinisch/template/model/Message.class
+dev/heinisch/template/MessageMapper.class
