@@ -5,25 +5,25 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>dev.heinisch</groupId>
-        <artifactId>template-parents</artifactId>
+        <artifactId>ppoe-seminar-monitor-parents</artifactId>
         <version>1.0-SNAPSHOT</version>
         <relativePath>../parents</relativePath>
     </parent>
 
-    <artifactId>template-application</artifactId>
+    <artifactId>ppoe-seminar-monitor-application</artifactId>
 
     <dependencies>
         <dependency>
             <groupId>dev.heinisch</groupId>
-            <artifactId>template-impl</artifactId>
+            <artifactId>ppoe-seminar-monitor-impl</artifactId>
         </dependency>
         <dependency>
             <groupId>dev.heinisch</groupId>
-            <artifactId>template-rest-impl</artifactId>
+            <artifactId>ppoe-seminar-monitor-rest-impl</artifactId>
         </dependency>
         <dependency>
             <groupId>dev.heinisch</groupId>
-            <artifactId>template-configuration</artifactId>
+            <artifactId>ppoe-seminar-monitor-configuration</artifactId>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

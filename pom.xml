@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>dev.heinisch</groupId>
-    <artifactId>template</artifactId>
+    <artifactId>ppoe-seminar-monitor</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Spring Boot Template</name>

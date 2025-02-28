@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>dev.heinisch</groupId>
-        <artifactId>template</artifactId>
+        <artifactId>ppoe-seminar-monitor</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>template-parents</artifactId>
+    <artifactId>ppoe-seminar-monitor-parents</artifactId>
 
     <packaging>pom</packaging>
 
@@ -48,32 +48,32 @@
             <!-- Project Modules -->
             <dependency>
                 <groupId>dev.heinisch</groupId>
-                <artifactId>template-application</artifactId>
+                <artifactId>ppoe-seminar-monitor-application</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>dev.heinisch</groupId>
-                <artifactId>template-configuration</artifactId>
+                <artifactId>ppoe-seminar-monitor-configuration</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>dev.heinisch</groupId>
-                <artifactId>template-rest-api</artifactId>
+                <artifactId>ppoe-seminar-monitor-rest-api</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>dev.heinisch</groupId>
-                <artifactId>template-rest-impl</artifactId>
+                <artifactId>ppoe-seminar-monitor-rest-impl</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>dev.heinisch</groupId>
-                <artifactId>template-api</artifactId>
+                <artifactId>ppoe-seminar-monitor-api</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>dev.heinisch</groupId>
-                <artifactId>template-impl</artifactId>
+                <artifactId>ppoe-seminar-monitor-impl</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
 
